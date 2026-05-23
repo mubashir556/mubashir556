@@ -5,7 +5,7 @@
 
 ## 👤 About Me
 
-- 🎓 BCA Graduate
+- 🎓 BCOM(CA) Graduate
 - 💼 Worked as Customer Service Associate at Amazon
 - 📊 Data Analytics Trainee (Project-Based Training)
 - 📈 Skilled in Excel, SQL, Power BI, Tableau
