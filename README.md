@@ -36,9 +36,10 @@
 
 ## 📌 Featured Projects
 
-🔹 Supply Chain & Inventory Analysis  
-🔹 Manufacturing Performance Analysis  
-🔹 Dashboard & KPI Reporting
+🔹 Supply Chain Inventory Analytics  
+🔹 Stock Market Analysis  
+🔹 SuperStore Analysis Project  
+🔹 Manufacturing Analytics Project
 
 ---
 
