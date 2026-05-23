@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Mohammad Mubashir Khan</h1>
 <h3 align="center">Customer Service Associate | Data Analytics Trainee</h3>
 
